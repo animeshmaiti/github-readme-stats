@@ -248,33 +248,33 @@ Vous pouvez utiliser l'option `&layout=compact` pour changer le style de la cart
 
 - Défaut
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti)
 
 - Ne pas afficher des stats spécifiques
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=contribs,issues)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=contribs,issues)
 
 - Afficher les icônes
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=issues&show_icons=true)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=issues&show_icons=true)
 
 - Inclure tous les commits
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&include_all_commits=true)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&include_all_commits=true)
 
 - Thèmes
 
 Choisissez parmi l'un des [thèmes par défaut](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
 
 - Dégradé
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Personnaliser la carte des stats
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api/?username=animeshmaiti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api/?username=animeshmaiti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Personnaliser la carte dépôt
 

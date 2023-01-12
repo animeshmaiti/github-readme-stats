@@ -301,37 +301,37 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Varsayılan
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti)
 
 - Belirli istatistikler gizli
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=contribs,issues)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=contribs,issues)
 
 - İkonlar gösteriliyor
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=issues&show_icons=true)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=issues&show_icons=true)
 
 - Tüm commitler dahil
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&include_all_commits=true)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&include_all_commits=true)
 
 - Temalar
 
 [default themes](#themes) adresinden istediğiniz temayı seçin.
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
 
 - Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - İstatistik Kartını Düzenleyin
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api/?username=animeshmaiti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api/?username=animeshmaiti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Kartın dilini seçin
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api/?username=animeshmaiti&locale=es)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api/?username=animeshmaiti&locale=es)
 
 - Repo kartı düzenleyin
 

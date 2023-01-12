@@ -102,7 +102,7 @@ Copy-paste this into your markdown content, and that is it. Simple!
 Change the `?username=` value to your GitHub username.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti)](https://github.com/animeshmaiti/github-readme-stats)
+[![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti)](https://github.com/animeshmaiti/github-readme-stats)
 ```
 
 > **Note**
@@ -115,7 +115,7 @@ You can pass a query parameter `&hide=` to hide any specific stats with comma-se
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=contribs,prs)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=contribs,prs)
 ```
 
 ### Adding private contributions count to total commits count
@@ -128,7 +128,7 @@ You can add the count of all your private contributions to the total commits cou
 > Options: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&count_private=true)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&count_private=true)
 ```
 
 ### Showing icons
@@ -136,7 +136,7 @@ You can add the count of all your private contributions to the total commits cou
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true)
 ```
 
 ### Themes
@@ -146,7 +146,7 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `&theme=THEME_NAME` parameter like so :
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
 ```
 
 #### All inbuilt themes
@@ -159,8 +159,8 @@ You can look at a preview for [all available themes](./themes/README.md) or chec
 
 #### Responsive Card Theme
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-light-mode-only)
+[![Animesh's GitHub stats-Dark](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-dark-mode-only)
+[![Animesh's GitHub stats-Light](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-light-mode-only)
 
 Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
 
@@ -169,13 +169,13 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 We have included a `transparent` theme that has a transparent background. This theme is optimized to look good on GitHub's dark and light default themes. You can enable this theme using the `&theme=transparent` parameter like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=transparent)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=transparent)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=transparent)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=transparent)
 
 </details>
 
@@ -184,13 +184,13 @@ We have included a `transparent` theme that has a transparent background. This t
 You can use the `bg_color` parameter to make any of [the available themes](./themes/README.md) transparent. This is done by setting the `bg_color` to a colour with a transparent alpha channel (i.e. `bg_color=00000000`):
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&bg_color=00000000)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&bg_color=00000000)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&bg_color=00000000)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&bg_color=00000000)
 
 </details>
 
@@ -199,15 +199,15 @@ You can use the `bg_color` parameter to make any of [the available themes](./the
 You can use [GitHub's theme context](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/) tags to switch the theme based on the user GitHub theme automatically. This is done by appending `#gh-dark-mode-only` or `#gh-light-mode-only` to the end of an image URL. This tag will define whether the image specified in the markdown is only shown to viewers using a light or a dark GitHub theme:
 
 ```md
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-light-mode-only)
+[![Animesh's GitHub stats-Dark](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-dark-mode-only)
+[![Animesh's GitHub stats-Light](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-light-mode-only)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-light-mode-only)
+[![Animesh's GitHub stats-Dark](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-dark-mode-only)
+[![Animesh's GitHub stats-Light](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/animeshmaiti/github-readme-stats#gh-light-mode-only)
 
 </details>
 
@@ -433,41 +433,41 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 -   Default
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti)
 
 -   Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=contribs,issues)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=contribs,issues)
 
 -   Showing icons
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=issues&show_icons=true)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&hide=issues&show_icons=true)
 
 -   Customize Border Color
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&border_color=2e4058)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&border_color=2e4058)
 
 -   Include All Commits
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&include_all_commits=true)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&include_all_commits=true)
 
 -   Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
 
 -   Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 -   Customizing stats card
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api/?username=animeshmaiti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api/?username=animeshmaiti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 -   Setting card locale
 
-![Anurag's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api/?username=animeshmaiti&locale=es)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api/?username=animeshmaiti&locale=es)
 
 -   Customizing repo card
 
