@@ -1,17 +1,11 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/animeshmaiti/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="statslogo.svg" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/animeshmaiti/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/animeshmaiti/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/animeshmaiti/github-readme-stats/graphs/contributors">
+      <a href="https://github.com/animeshmaiti/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/animeshmaiti/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/animeshmaiti/github-readme-stats">
-      <img src="https://codecov.io/gh/animeshmaiti/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <a href="https://github.com/animeshmaiti/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/animeshmaiti/github-readme-stats?color=0088ff" />
@@ -63,13 +57,7 @@
   </p>
 </p>
 
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/animeshmaiti">donating</a> to help it improve!</p>
-
-<a href="https://indiafightscorona.giveindia.org">
-  <img src="https://indiaspora.org/wp-content/uploads/2021/04/give-India-logo.png" alt="Give india logo" width="200" />
-</a>
-
-Are you considering supporting the project by donating? Please DO NOT!!
+<p align="center">Love the project? Please consider <a href="https://github.com/animeshmaiti">follow</a> to help it improve!</p>
 
 Instead, Help India fight the second deadly wave of COVID-19.
 Thousands of people are dying in India because of a lack of Oxygen & also COVID-related infrastructure.
@@ -153,7 +141,7 @@ Use `&theme=THEME_NAME` parameter like so :
 
 GitHub readme stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
 
-<img src="https://res.cloudinary.com/animeshmaiti/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
+<img src="theames.png" width="600px"/>
 
 You can look at a preview for [all available themes](./themes/README.md) or checkout the [theme config file](./themes/index.js) & **you can also contribute new themes** if you like :D
 
@@ -536,19 +524,6 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
 ### Keep your fork up to date
 
 You can keep your fork, and thus your private Vercel instance up to date with the upstream using GitHubs' [Sync Fork button](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork). You can also use the [pull](https://github.com/wei/pull) package created by [@wei](https://github.com/wei) to automate this process.
-
-## :sparkling_heart: Support the project
-
-I open-source almost everything I can and try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can use this service for free.
-
-However, if you are using this project and are happy with it or just want to encourage me to continue creating stuff, there are a few ways you can do it:
-
--   Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
--   Starring and sharing the project :rocket:
--   [![paypal.me/animeshmaiti](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/animeshmaiti) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
-
-Thanks! :heart:
 
 * * *
 
