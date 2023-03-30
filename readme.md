@@ -59,10 +59,9 @@
 
 <p align="center">Love the project? Please consider <a href="https://github.com/animeshmaiti">follow</a> to help it improve!</p>
 
-Instead, Help India fight the second deadly wave of COVID-19.
-Thousands of people are dying in India because of a lack of Oxygen & also COVID-related infrastructure.
+Instead, CARE India’s Disaster Management initiative works to provide rapid and effective relief measures to the regions impacted by natural calamities.
 
-Visit <https://indiafightscorona.giveindia.org> and make a small donation to help us fight COVID and overcome this crisis. A small donation goes a long way. :heart:
+Visit <https://www.careindia.org/our-work/disaster-relief/> CARE has been working in India for over 70 years, for the upliftment of marginalised women and girls through 53 programmes in 18 states and 130+ districts.
 
 </p>
 

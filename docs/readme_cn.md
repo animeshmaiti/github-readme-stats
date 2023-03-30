@@ -1,4 +1,5 @@
 <p align="center">
+<img width="100px" src="statslogo.svg" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
 </p>

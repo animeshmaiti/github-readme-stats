@@ -1,4 +1,5 @@
 <p align="center">
+<img width="100px" src="statslogo.svg" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Readme'lerinizde dinamik olarak oluşturulmuş GitHub istatistikleri alın!</p>
 </p>
