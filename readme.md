@@ -63,6 +63,7 @@ Instead, CARE India’s Disaster Management initiative works to provide rapid an
 
 Visit <https://www.careindia.org/our-work/disaster-relief/> CARE has been working in India for over 70 years, for the upliftment of marginalised women and girls through 53 programmes in 18 states and 130+ districts.
 
+
 </p>
 
 # Features
@@ -393,12 +394,24 @@ You can use the `&layout=compact` option to change the card design.
 
 [![Top Langs](https://github-readme-stats-animeshmaiti.vercel.app/api/top-langs/?username=animeshmaiti&layout=compact)](https://github.com/animeshmaiti/github-readme-stats)
 
+-   Donut Vertical Chart layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshmaiti&layout=donut-vertical)](https://github.com/animeshmaiti/github-readme-stats)
+
+-   Pie Chart layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshmaiti&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+-   Hidden progress bars
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/animeshmaiti/github-readme-stats)
+
 # Wakatime Week Stats
 
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats-animeshmaiti.vercel.app/api/wakatime?username=willianrod)](https://github.com/animeshmaiti/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/animeshmaiti/github-readme-stats)
 ```
 
 > **Note**:
@@ -406,13 +419,13 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ### Demo
 
-[![willianrod's wakatime stats](https://github-readme-stats-animeshmaiti.vercel.app/api/wakatime?username=willianrod)](https://github.com/animeshmaiti/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harlok)](https://github.com/animeshmaiti/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats-animeshmaiti.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/animeshmaiti/github-readme-stats)
 
 -   Compact layout
 
-[![willianrod's wakatime stats](https://github-readme-stats-animeshmaiti.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/animeshmaiti/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/animeshmaiti/github-readme-stats)
 
 * * *
 
@@ -466,7 +479,7 @@ Choose from any of the [default themes](#themes)
 
 -   WakaTime card
 
-[![willianrod's wakatime stats](https://github-readme-stats-animeshmaiti.vercel.app/api/wakatime?username=willianrod)](https://github.com/animeshmaiti/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/animeshmaiti/github-readme-stats)
 
 * * *
 
