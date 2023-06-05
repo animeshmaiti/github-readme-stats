@@ -287,9 +287,9 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 ### Demo
 
-[![willianrod's wakatime stats](https://github-readme-stats-animeshmaiti.vercel.app/api/wakatime?username=willianrod)](https://github.com/animeshmaiti/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harlok)](https://github.com/animeshmaiti/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats-animeshmaiti.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/animeshmaiti/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/animeshmaiti/github-readme-stats)
 
 - Kompakt Düzen
 
@@ -343,7 +343,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Wakatime kart
 
-[![willianrod's wakatime stats](https://github-readme-stats-animeshmaiti.vercel.app/api/wakatime?username=willianrod)](https://github.com/animeshmaiti/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/animeshmaiti/github-readme-stats)
 
 ---
 
